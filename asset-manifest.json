@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/K2I/static/css/main.59105604.css",
+    "main.js": "/K2I/static/js/main.4c30e0ca.js",
+    "static/js/453.bf8341ce.chunk.js": "/K2I/static/js/453.bf8341ce.chunk.js",
+    "index.html": "/K2I/index.html",
+    "main.59105604.css.map": "/K2I/static/css/main.59105604.css.map",
+    "main.4c30e0ca.js.map": "/K2I/static/js/main.4c30e0ca.js.map",
+    "453.bf8341ce.chunk.js.map": "/K2I/static/js/453.bf8341ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59105604.css",
+    "static/js/main.4c30e0ca.js"
+  ]
+}

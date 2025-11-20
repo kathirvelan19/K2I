@@ -5,7 +5,7 @@ import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { generateContent } from "./Model";
 import FirebaseAuth from "./FirebaseAuth";  // ← NEW
-import { auth, onAuthStateChanged } from "../firebase";  // ← NEW
+
 import "./Chatbot.css";
 
 const Chatbot = () => {
